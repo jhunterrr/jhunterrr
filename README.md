@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jhunterrr
-- 👀 I’m interested in coding, music, gaming and socials
-- 🌱 I’m currently in my final year of MEng Computer Science at QUB
+- 👋 Hi, I’m @jhunterrr (j-dog)
+- 👀 I’m interested in coding, music, gaming and socials (daring today arent we)
+- 🌱 I’m currently in my final year of MEng Computer Science at QUB (hilary and co)
 
 <!---
 jhunterrr/jhunterrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
